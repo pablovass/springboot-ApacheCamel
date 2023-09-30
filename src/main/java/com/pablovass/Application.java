@@ -1,7 +1,7 @@
 package com.pablovass;
 
+import com.pablovass.route.MyRouteBuilder;
 import org.apache.camel.main.Main;
-import org.apache.camel.builder.RouteBuilder;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
