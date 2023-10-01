@@ -27,10 +27,16 @@
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
 			<version>1.18.30</version>
-			<scope>provided</scope>
+			<scope>compile</scope>
 		</dependency>
-
+		<!-- https://mvnrepository.com/artifact/org.apache.camel/camel-http -->
 		<dependency>
+			<groupId>org.apache.camel</groupId>
+			<artifactId>camel-http</artifactId>
+			<version>3.20.6</version>
+			<scope>compile</scope>
+		</dependency>
+	<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
