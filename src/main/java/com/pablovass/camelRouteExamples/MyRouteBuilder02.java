@@ -1,7 +1,7 @@
 package com.pablovass.camelRouteExamples;
 
-import com.pablovass.processor.ProcessDataExchangeProcessor;
-import com.pablovass.processor.SetDataExchangeProcessor;
+import com.pablovass.process.ProcessDataExchangeProcessor;
+import com.pablovass.process.SetDataExchangeProcessor;
 import org.apache.camel.builder.RouteBuilder;
 //tiene el timer
 public class MyRouteBuilder02 extends RouteBuilder {

@@ -1,4 +1,4 @@
-package com.pablovass.processor;
+package com.pablovass.process;
 
 import org.apache.camel.Exchange;
 import org.apache.camel.Processor;
